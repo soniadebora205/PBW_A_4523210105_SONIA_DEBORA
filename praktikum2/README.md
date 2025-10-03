@@ -1,5 +1,5 @@
 
-# PRAKTIKUM 1 : APLIKASI PHP DASAR - Form Pendaftaran Event
+# PRAKTIKUM 2 : APLIKASI PHP DASAR - Form Pendaftaran Event
 
 Aplikasi ini dibuat untuk memenuhi tugas praktikum dasar PHP. Aplikasi ini merupakan _form _ pendaftaran sederhana untuk sebuah event fiktif.
 
