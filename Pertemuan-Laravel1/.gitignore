@@ -1,0 +1,5 @@
+LaraPress/vendor/
+LaraPress/node_modules/
+LaraPress/.env
+LaraPress/storage/*.key
+LaraPress/.phpunit.result.cache
